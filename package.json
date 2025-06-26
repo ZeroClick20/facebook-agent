@@ -1,0 +1,13 @@
+
+{
+  "name": "facebook-agent",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node api/run-agent.js"
+  },
+  "dependencies": {
+    "puppeteer-extra": "^3.3.4",
+    "puppeteer-extra-plugin-stealth": "^2.11.1"
+  }
+}
